@@ -5,4 +5,4 @@ sudo chmod -R 777 /mnt/resource/localcache
 service firewalld stop
 service iptables stop
 systemctl stop firewalld.service
-csf -x
+
